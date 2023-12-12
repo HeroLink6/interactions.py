@@ -90,3 +90,4 @@ bot.start("token")
 ```
 
 With `interactions.py`, you can quickly and easily build complex Discord applications with Python. Check out our [guides](https://interactions-py.github.io/interactions.py/Guides/01%20Getting%20Started) for more information. Or join our [discord](https://discord.gg/interactions).
+[![Run on Repl.it](https://replit.com/badge/github/HeroLink6/interactions.py)](https://replit.com/new/github/HeroLink6/interactions.py)
